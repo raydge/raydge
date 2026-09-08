@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raydge
 - 👀 I’m interested in Python, Options Pricing, and swimming
-- 🌱 I’m currently learning Options Pricing and VBA
+- 🌱 I’m currently learning Options Pricing
 - 📫 How to reach me liu.ruizhi@protonmail.com
 
 <!---
